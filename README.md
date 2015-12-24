@@ -1,11 +1,11 @@
-# sudoku
+## sudoku
 A sudoku solver
 
-## Dependencies
+### Dependencies
 
 Python3
 
-## How to use
+### How to use
 
 ./sudoku.py <inputfile>
 
@@ -24,3 +24,5 @@ inputfile of the form
 ```
 
 It should work with any soduku for any N (i.e. 9x9, 4x4, 16x16)
+
+You can find a few sample files in puzzles directory.
